@@ -14,7 +14,6 @@ This React Native application allows users to cycle through a collection of imag
 
   ```bash
   npm install -g expo-cli
-
 Installation
 Clone the Repository:
 
